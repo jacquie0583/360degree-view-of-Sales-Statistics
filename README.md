@@ -20,3 +20,9 @@
 <p align="center">
   <img width="1000" height="500" src="https://github.com/jacquie0583/360degree-view-of-Sales-Statistics/blob/main/Picture2.png">
 </p>
+
+
+<p align="center">
+  <img width="1200" height="800" src="https://github.com/jacquie0583/360degree-view-of-Sales-Statistics/blob/main/Picture3.png">
+</p>
+
